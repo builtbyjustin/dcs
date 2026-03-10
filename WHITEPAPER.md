@@ -1,4 +1,4 @@
-# Deterministic Compiler Systems (DCS)
+# Deterministic Compiler System (DCS)
 
 Deterministic Compilation of Structured Intent into Reproducible Software Artifacts
 
