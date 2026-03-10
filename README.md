@@ -1,6 +1,6 @@
-# Deterministic Compiler Systems (DCS)
+# Deterministic Compiler System (DCS)
 
-Deterministic Compiler Systems (DCS) is a compilation model that converts structured intent into reproducible software artifacts.
+Deterministic Compiler System (DCS) is a compilation model that converts structured intent into reproducible software artifacts.
 
 DCS enforces strict replay guarantees by compiling validated requests through a deterministic pipeline:
 
